@@ -1,4 +1,4 @@
 <?php
-include_once("hjgdskj.html");
+include_once("hjgdskj.HTML");
 
  ?>
